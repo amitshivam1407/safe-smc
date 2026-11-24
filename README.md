@@ -4,4 +4,4 @@ Closed-form feasibility region for simultaneous convergence using sliding mode c
 
 **Status:** manuscript in preparation. The simulation code will be released together with the paper.
 
-**Author:** Amit Shivam, University of Porto. Website: https://sites.google.com/view/amit-shivam/home
+**Author:** Amit Shivam, University of Porto. 
